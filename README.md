@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Kundan Kumar Guntur`
+- **CCID:** `guntur`
 
 ## References and Resources
 
